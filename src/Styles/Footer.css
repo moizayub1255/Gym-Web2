@@ -1,0 +1,23 @@
+.footer {
+    background-color: #1E1E2C;
+  }
+  
+  .footer h5 {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .footer a {
+    color: #ccc;
+    font-size: 14px;
+  }
+  
+  .footer a:hover {
+    color: #FF2E2E;
+  }
+  
+  .footer .bi {
+    color: #FF2E2E;
+    font-size: 18px;
+  }
+  
